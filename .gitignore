@@ -1,0 +1,10 @@
+materials/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# JetBrains
+.idea/
+
+# vim
+*~
